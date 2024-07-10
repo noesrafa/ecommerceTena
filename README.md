@@ -1,4 +1,4 @@
 # Ecommerce Tena
 
 To run:
-- pnpm run dev
+- npm run dev
